@@ -14,13 +14,10 @@
 myBid
 Aug 2021
 
-It is a platform which is common for auctioneers to post their auctions and bid for the ones created by others. It allows only to bid on someone's offer. They can visit profile page and see their active bids, after signing in they can see bids posted by other users.
-http://mybid-live.herokuapp.com/
+It is a platform which is common for auctioneers to post their auctions and bid for the ones created by others. It allows only to bid on someone's offer. They can visit profile page and see their active bids, after signing in they can see bids posted by other users
 
 
 Get Help Give Help
 Jun 2021
 
 Get Help Give Help is a web-app which connects people offering free help and people who are looking for such help. This site will be good for people ready to offer something for free as a deal to create long-term connections
-
-https://fast-sands-25080.herokuapp.com/
