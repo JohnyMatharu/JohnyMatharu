@@ -14,7 +14,7 @@
 myBid
 Aug 2021
 
-myBid is a platform which is common for auctioneers to post their auctions and bid for the ones created by others. It allows only to bid on someone's offer. They can visit their profile page and see their active bids, after signing in they can see bids posted by other users.
+It is a platform which is common for auctioneers to post their auctions and bid for the ones created by others. It allows only to bid on someone's offer. They can visit profile page and see their active bids, after signing in they can see bids posted by other users.
 http://mybid-live.herokuapp.com/
 
 
