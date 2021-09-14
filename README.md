@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-**JohnnyMatharu** 
+**Johnny Matharu** 
 
 - 🌱 I’m currently learning Java, AWS and Google Adds
 - 👯 I’m looking to collaborate on a long-term project spanning 3-5 years
@@ -18,4 +18,4 @@ It is a platform which allows to create a bid and to bid on existing bid. Login 
 
 Get Help Give Help:
 
-There is a saying that once you do good for someone it comes back to you like a boomrang. This application is based in similar principle and encourages philanthropy. You can request for help or offer help to another inidividual who may need it. It encourages volunteerism and enhances long-term connections.
+This application is based on principle of give and take and encourages philanthropy. You can request for help or offer help to another inidividual who may need it.
