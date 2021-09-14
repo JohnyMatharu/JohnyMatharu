@@ -11,6 +11,9 @@
 - ⚡ Fun fact: I enjoy what I do and find the fun way to create my interest
 
 
+Here is a brief desription of two projects stated underneath
+
+
 myBid: 
 
 It is a platform which allows to create a bid and to bid on existing bid. Login is required and once bid is one, has to be paid for. This app is time controlled.
