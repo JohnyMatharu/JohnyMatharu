@@ -13,9 +13,9 @@
 
 myBid: 
 
-It is a platform which is common for auctioneers to post their auctions and bid for the ones created by others. It allows only to bid on someone's offer. They can visit profile page and see their active bids, after signing in they can see bids posted by other users
+It is a platform which allows to create a bid and to bid on existing bid. Login is required and once bid is one, has to be paid for. This app is time controlled.
 
 
 Get Help Give Help:
 
-It is a web-app which connects people offering free help and people who are looking for such help. This site will be good for people ready to offer something for free as a deal to create long-term connections
+There is a saying that once you do good for someone it comes back to you like a boomrang. This application is based in similar principle and encourages philanthropy. You can request for help or offer help to another inidividual who may need it. It encourages volunteerism and enhances long-term connections.
