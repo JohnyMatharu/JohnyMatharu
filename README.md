@@ -3,8 +3,8 @@
 
 **Johny Matharu** 
 
-- 🌱 I’m currently working on Java, AWS and Google Adds
-- 👯 I’m looking to collaborate on a long-term project spanning 3-5 years
+- 🌱 I’m currently working on Java, AWS and Google Adds skills
+- 👯 I’m looking to collaborate on short-term projects spanning 1 week to 3 months, and medium term projects spanning 6 month to a year 
 - 💬 Ask me about MERN applications and success rate
 - 📫 How to reach me: jaani.matharu@gmail.com
 - 😄 Pronouns: he 
