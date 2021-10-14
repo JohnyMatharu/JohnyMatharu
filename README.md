@@ -16,4 +16,4 @@ Here is a brief desription of one of the projects listed below
 
 myBid: 
 
-It is a platform which allows to create a bid and to bid on existing bid. Login is required and once bid is one, has to be paid for. This app is time controlled
+It is a platform which allows to create a bid and to bid on existing bid. Login is required and once bid is one, has to be paid for
