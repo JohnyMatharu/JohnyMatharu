@@ -17,8 +17,3 @@ Here is a brief desription of two projects listed below
 myBid: 
 
 It is a platform which allows to create a bid and to bid on existing bid. Login is required and once bid is one, has to be paid for. This app is time controlled.
-
-
-Get Help Give Help:
-
-This application is based on principle of give and take and encourages philanthropy. You can request for help or offer help to another inidividual who may need it.
