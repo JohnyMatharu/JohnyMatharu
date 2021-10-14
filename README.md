@@ -11,7 +11,7 @@
 - ⚡ Fun fact: I enjoy what I do and find the fun way to create my interest
 
 
-Here is a brief desription of two projects listed below
+Here is a brief desription of one of the projects listed below
 
 
 myBid: 
