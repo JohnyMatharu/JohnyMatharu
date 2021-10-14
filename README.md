@@ -3,7 +3,7 @@
 
 **Johny Matharu** 
 
-- 🌱 I’m currently learning Java, AWS and Google Adds
+- 🌱 I’m currently working on Java, AWS and Google Adds
 - 👯 I’m looking to collaborate on a long-term project spanning 3-5 years
 - 💬 Ask me about MERN applications and success rate
 - 📫 How to reach me: jaani.matharu@gmail.com
